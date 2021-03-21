@@ -1,2 +1,2 @@
 # bug-free-octo-engine
-A OS that we built
+An OS that we built
